@@ -1,7 +1,7 @@
 {
   "name": "desa_cirebon_baru",
   "version": "1.0.0",
-  "description": "[Desaku](https://desapagarbesi.net) merupakan sebuah web profil sederhana yang dibuat untuk Desa Pagar Besi, Kec. Merigi Sakti, Kab. Bengkulu Tengah.",
+  "description": "[Desaku] merupakan sebuah web profil sederhana yang dibuat untuk Desa Cirebon Baru, Kec. Seberang Musi, Kab. Kepahiang.",
   "main": "index.js",
   "scripts": {
     "start": "node app"
